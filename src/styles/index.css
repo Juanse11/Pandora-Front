@@ -1,0 +1,179 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #4f4b65 !important;
+}
+
+.ui.star.rating .active.icon {
+  background: 0 0 !important;
+  color: #3a91aa !important;
+  text-shadow: 0 -1px 0 #3a91aac9, -1px 0 0 #3a91aac9, 0 1px 0 #3a91aac9,
+    1px 0 0 #3a91aac9 !important;
+}
+
+.ui.form .field > label {
+  color: #fff !important;
+}
+
+body,
+.ui.header,
+.ui.button,
+.ui.form input:not([type]),
+.ui.form input[type="date"],
+.ui.form input[type="datetime-local"],
+.ui.form input[type="email"],
+.ui.form input[type="file"],
+.ui.form input[type="number"],
+.ui.form input[type="password"],
+.ui.form input[type="search"],
+.ui.form input[type="tel"],
+.ui.form input[type="text"],
+.ui.form input[type="time"],
+.ui.form input[type="url"],
+.ui.card > .content > .header,
+.ui.cards > .card > .content > .header,
+input,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-variant-ligatures: normal !important;
+  font-variant-caps: normal !important;
+  font-variant-numeric: normal !important;
+  font-variant-east-asian: normal !important;
+  font-stretch: normal !important;
+  font-family: "Nunito", sans-serif !important;
+}
+
+.DateInput__input {
+  width: 100%;
+}
+
+.SingleDatePicker {
+  display: block !important;
+  margin-bottom: 1em !important;
+  border-radius: 5px !important;
+}
+.SingleDatePickerInput {
+  display: block !important;
+  margin-bottom: 1em !important;
+  border-radius: 5px !important;
+}
+
+.DateInput {
+  border-radius: 5px !important;
+}
+
+.ui.grid > .row > .stretched.column,
+.ui.grid > .stretched.column:not(.row),
+.ui.grid > .stretched.row > .column,
+.ui.stretched.grid > .column,
+.ui.stretched.grid > .row > .column {
+  display: inline-block !important;
+}
+
+.CalendarDay--selected-start,
+.CalendarDay--selected-end,
+.CalendarDay--selected {
+  background: #3a91aa !important;
+  border: 1px double #3a91aa !important;
+}
+
+.DayPickerKeyboardShortcuts__show--bottom-right {
+  border-right: 33px solid #3a91aa !important;
+}
+
+
+.slick-dots li button:before {
+  font-size: 15px !important;
+}
+
+.dropdown---caret---3CkEt {
+  display: none !important;
+}
+.buttons---btn-border---1O58b {
+  background-color: none;
+  background-image: none !important;
+}
+
+.buttons---btn-border---1O58b:active,
+.buttons---btn-border---1O58b.buttons---active---2-a32,
+.buttons---open---1ju75
+  > .buttons---dropdown-toggle---vMtjL.buttons---btn-border---1O58b {
+  background-color: #3a91aa !important;
+  color: #fff !important;
+}
+
+.buttons---btn-group---1jaDo + .buttons---btn-group---1jaDo {
+  margin-left: 15px;
+}
+
+.buttons---btn-border---1O58b:hover,
+.buttons---btn-border---1O58b.buttons---hover---42FF2 {
+  background-image: none !important;
+}
+
+.transition-container {
+  min-height: 300px !important;
+  height: 100% !important;
+}
+
+.DayPicker--horizontal {
+  box-shadow: none;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.input {
+  padding: 0;
+  border: none;
+}
+
+.checkbox {
+  border: none;
+  vertical-align: center;
+  width: auto;
+  height: auto;
+}
+
+.ui .dimmer {
+  z-index: 1;
+}
+
+.slick-prev {
+  left: 3% !important;
+  z-index: 1;
+}
+.slick-next {
+  right: 3% !important;
+  z-index: 1;
+}
+
+.ui.grid {
+  margin-top: 0
+  
+}
+
+
+.slick-slide {
+  padding-right: 2px;
+}
+
+.rc-time-picker-panel-input {
+  color: #4f4b65;
+  font-size: 14px;
+  font-weight: 600;
+}

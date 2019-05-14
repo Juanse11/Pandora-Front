@@ -1,0 +1,46 @@
+{
+  "name": "pandora",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@trendmicro/react-dropdown": "^1.3.0",
+    "axios": "^0.18.0",
+    "firebase": "^5.11.0",
+    "history": "^4.7.2",
+    "moment": "^2.24.0",
+    "normalize.css": "^8.0.1",
+    "qs": "^6.7.0",
+    "rc-time-picker": "^3.6.4",
+    "react": "^16.8.6",
+    "react-addons-shallow-compare": "^15.6.0",
+    "react-dates": "^12.7.0",
+    "react-dom": "^16.8.6",
+    "react-map-gl": "^4.1.2",
+    "react-redux": "^7.0.2",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-slick": "^0.23.2",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^4.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
